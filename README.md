@@ -1,5 +1,5 @@
-# to Run
-- To run the project run: npm run dev
+# To Run
+- To run the project run: npm run dev, then go to localhost:5173
 - To create a production run: npm run build
 
 # React + TypeScript + Vite
